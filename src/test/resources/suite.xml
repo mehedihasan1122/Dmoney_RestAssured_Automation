@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<suite name="dmoney Rest Assured Automation">
+<suite name="Dmoney_Api_ReestAssured">
     <test name="Users automation">
         <classes>
             <class name="testRunner.UserTestRunner"></class>
