@@ -1,1 +1,0 @@
-{"uuid":"30b5dd75-fac2-468e-b728-c93d06581c00","name":"Dmoney_Api_ReestAssured","children":["e49e917b-9bb3-4efb-8a19-f5917693eace"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1731352890595,"stop":1731352890614}],"afters":[],"start":1731352890523,"stop":1731352900411}
