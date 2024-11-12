@@ -2,6 +2,8 @@ config.properties
 .idea
 gradle
 build
+allure-report
+allure-results
 
 
 
